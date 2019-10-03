@@ -1,0 +1,14 @@
+/log/*
+/testingarea/*
+/.vscode/*
+/.history/*
+.history
+.vscode
+/testingarea
+**/testingarea
+**/testingarea/*
+.terraform/*
+.vscode/*
+terraform.tfstate
+terraform.tfstate.backup
+provider.tf
